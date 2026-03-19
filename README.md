@@ -78,5 +78,5 @@ infrastructure in resource-constrained environments.
 
 ## Author
 
-**Rhema** — IT Manager, Axim Government Hospital | PhD applicant
-Ghana's Western Region | University of Wyoming
+**Frank Boabeng** — IT Manager, Axim Government Hospital | PhD applicant
+Ghana's Western Region | 
